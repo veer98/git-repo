@@ -5,9 +5,7 @@ public class Product {
 	int productId;
 	String productName;
 	String productDescription;
-	
 	int quantity;
-	
 	double price;
 	
 	public int getPrice()
@@ -19,6 +17,7 @@ public class Product {
 	{
 		return quantity;
 	}
+
 	
 	public int getProductId() {
 		return productId;
