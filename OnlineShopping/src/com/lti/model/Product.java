@@ -8,10 +8,6 @@ public class Product {
 	
 	int quantity;
 	
-	public int getQuantity()
-	{
-		return quantity;
-	}
 	
 	public int getProductId() {
 		return productId;
