@@ -8,6 +8,13 @@ public class Product {
 	
 	int quantity;
 	
+	double price;
+	
+	public int getPrice()
+	{
+		return price;
+	}
+	
 	public int getQuantity()
 	{
 		return quantity;
